@@ -1,0 +1,11 @@
+.venv/
+build/
+models/*.onnx
+models/*.json
+__pycache__/
+*.pyc
+*.o
+*.so
+*.dylib
+*.dll
+*.exe

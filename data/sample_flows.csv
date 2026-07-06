@@ -1,0 +1,7 @@
+packets,bytes,duration_ms,src_degree,dst_degree,proto_tcp,proto_udp,mean_packet_len,inter_arrival_ms,syn_count,fin_count,rst_count,label
+8,5200,110,3,4,1,0,650,14,1,1,0,0
+11,7100,150,5,3,1,0,645,12,1,1,0,0
+6,3100,72,2,5,0,1,516,18,0,0,0,0
+95,141000,780,85,78,1,0,1484,1,72,0,21,1
+14,8700,180,4,6,1,0,621,13,1,1,0,0
+102,151000,860,92,81,1,0,1480,1,80,0,25,1
